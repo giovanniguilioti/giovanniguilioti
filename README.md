@@ -2,14 +2,19 @@
 ---
 
 ```php
-const Me = 
+Object::Developer me = 
 {
-  string Name = "Giovanni Guilioti";
-  string Birth = "mm-dd-2002";
+  Name <string> = "Giovanni Guilioti",
+  Birth <Date::year> = "mm-dd-2002",
 
-  string School = "Student at UEM";
-  string Developer = "Trainee";
-  int Experience = 1;//month xD
-}
+  Studying <string> = "Student at UEM",
+  
+  DeveloperLevel <string> = "Trainee",
+  Experience <double> = 0.1, //years
+  
+  Tecnologies <List<string>> = {'c', 'cpp', 'mysql', 'html', 'css'},
+  
+  Interests <List<string>> = {'algorithm', 'data-structure', 'compiler'}
+};
 ```
 ---
