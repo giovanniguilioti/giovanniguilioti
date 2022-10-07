@@ -13,8 +13,7 @@ Object::Developer me =
   Experience <double> = 0.1, //years
   
   Tecnologies <List<string>> = {'c', 'cpp', 'mysql', 'html', 'css'},
-  
-  Interests <List<string>> = {'algorithm', 'data-structure', 'compiler'}
+  Interests <List<string>> = {"algorithm", "data-structure", "programming-languagues", "compilers"}
 };
 ```
 ---
