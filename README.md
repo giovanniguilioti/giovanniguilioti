@@ -10,10 +10,9 @@ Object::Developer me =
   Studying <string> = "Student at UEM",
   
   DeveloperLevel <string> = "Trainee",
-  Experience <double> = 0.1, //years
   
   Tecnologies <List<string>> = {'c', 'cpp', 'mysql', 'html', 'css'},
-  Interests <List<string>> = {"algorithm", "data-structure", "programming-languagues", "compilers"}
+  Interests <List<string>> = {"algorithm", "data-structure", "programming-languagues", "compilers", "opengl"}
 };
 ```
 ---
