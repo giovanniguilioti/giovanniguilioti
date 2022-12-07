@@ -12,7 +12,8 @@ Object::Developer me =
   DeveloperLevel <string> = "Trainee",
   
   Tecnologies <List<string>> = {'c', 'cpp', 'csharp','mysql', 'html', 'css', 'javascript'},
-  Interests <List<string>> = {"algorithm", "data-structure", "programming-languagues", "compilers", "operating system", "opengl"}
+  Interests <List<string>> = {"algorithm", "data-structure", "programming-languagues",
+                              "compilers", "operating system", "opengl"}
 };
 ```
 ---
